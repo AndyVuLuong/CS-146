@@ -1,4 +1,4 @@
-#CS 146 - Data Structure & Algorithms
+# CS 146 - Data Structure & Algorithms
 
 javac -cp .:algs4.jar *name*.java
 
